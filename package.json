@@ -1,0 +1,14 @@
+{
+  "name": "paulemileatn",
+  "version": "1.0.0",
+  "main": "update-readme.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Paul",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@octokit/rest": "^21.1.0"
+  }
+}
