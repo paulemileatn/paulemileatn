@@ -8,3 +8,5 @@
 ## 🔍 About me
 
 🛠️ Coding since **2019** (with a few bugs along the way 😆)
+
+Updated on 16/03/2025
